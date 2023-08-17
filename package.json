@@ -1,0 +1,11 @@
+{
+  "scripts": {
+    "dev": "NODE_ENV"
+  },
+  "devDependencies": {
+    "@babel/cli": "^7.22.10",
+    "@babel/core": "^7.22.10",
+    "@babel/preset-env": "^7.22.10",
+    "babel-loader": "^9.1.3"
+  }
+}
